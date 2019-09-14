@@ -1,7 +1,6 @@
 # Math Mastery
-[(https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome mathematics resources. The credits for this curriculum go to [rossant](https://github.com/rossant/awesome-math). I've merely wrapped it, adding in my own resources. 
+Master mathematics for machine learning, Artificial Intelligence. A curated list of awesome mathematics resources. The credits for this curriculum go to [rossant](https://github.com/rossant/awesome-math). I've merely wrapped it, adding in my own resources. 
 
 # Contents
 
