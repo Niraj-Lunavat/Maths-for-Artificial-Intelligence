@@ -73,6 +73,7 @@ Master mathematics for machine learning, Artificial Intelligence. A curated list
 * [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
 * [edX](https://www.edx.org/course/subject/math)
 * [Brilliant](https://brilliant.org/)
+* [Wiingy](https://wiingy.com/learn/math/)
 
 ## Learn to Learn
 
